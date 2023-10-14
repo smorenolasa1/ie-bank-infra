@@ -6,19 +6,19 @@
             "value": "prod"
         },
         "postgreSQLServerName": {
-            "value": "sofia-dbsrv-uat"
+            "value": "sofia2-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "sofia-db-uat"
+            "value": "sofia2-db-uat"
         },
         "appServicePlanName": {
-            "value": "sofia-asp-uat"
+            "value": "sofia2-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "sofia-be-uat"
+            "value": "sofia2-be-uat"
         },
         "appServiceAppName": {
-            "value": "sofia-fe-uat"
+            "value": "sofia2-fe-uat"
         },
         "location": {
             "value": "UK South"
