@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "sofia1-dbsrv-dev"
+            "value": "sofia2-dbsrv-dev"
         },
         "postgreSQLDatabaseName": {
-            "value": "sofia1-db-dev"
+            "value": "sofia2-db-dev"
         },
         "appServicePlanName": {
-            "value": "sofia1-asp-dev"
+            "value": "sofia2-asp-dev"
         },
         "appServiceAPIAppName": {
-            "value": "sofia1-be-dev"
+            "value": "sofia2-be-dev"
         },
         "appServiceAppName": {
-            "value": "sofia1-fe-dev"
+            "value": "sofia2-fe-dev"
         },
         "location": {
             "value": "UK East"
